@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="BackendCalculator">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../BackendCalculator/out/artifacts/BackendCalculator_jar/BackendCalculator.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
